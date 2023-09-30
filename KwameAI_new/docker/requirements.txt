@@ -1,0 +1,6 @@
+elasticsearch==7.9.1
+Flask==1.1.2
+pandas
+sentence_transformers
+
+# other dependencies
